@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace November_Projekt
 {
@@ -6,7 +7,7 @@ namespace November_Projekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("reee");
+            Console.WriteLine("");
             Console.ReadLine();
         }
     }
